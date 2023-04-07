@@ -101,5 +101,15 @@ button {
     color: white;
     font-family : Comic Sans MS;
     border-radius: 10px; /* add this line */
-    border: 5px solid black;
+    border: 5px solid black
 }
+
+#myButton {
+    cursor: pointer;
+  }
+
+#myButton:hover{
+    background: white;
+    color: purple;
+}
+  
